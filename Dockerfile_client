@@ -1,0 +1,3 @@
+FROM predanerd/ubu-java:1
+COPY client.jar /app/client.jar
+EXPOSE 8080
